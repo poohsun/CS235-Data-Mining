@@ -1,0 +1,13 @@
+Name	:Poorvaja Sundar
+SID	:862188907
+
+CS235 Data Mining Techniques Project
+AdaBoost Algorithm Implementation Steps:
+
+The AdaBoost algorithm has been implemented in python with the help of pandas, numpy and sklearn libraries. 
+The project deliverables for the AdaBoost algorithm is 
+1. AdaBoostClassifier.py
+2. dataset.csv
+
+Parameters that need to be edited is the path to the dataset.
+No parameter are required to implement the python file. 
